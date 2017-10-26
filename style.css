@@ -1,0 +1,29 @@
+
+body {
+	background-color: #fff4f8;
+}
+.container {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: #212121;
+}
+
+.button {
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	border-radius: 8px;
+	background-color: #bc0366;
+	color: white;
+	border: none;
+	padding: 6px 8px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.button:hover {
+	background-color: #b7b7b7; 
+	color: white;
+}
+
+.letter .average {
+	font-family: 'Baloo Tammudu', cursive;
+}
